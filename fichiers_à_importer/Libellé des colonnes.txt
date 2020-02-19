@@ -1,0 +1,20 @@
+# Elus municipaux :																																		
+codeinsee	mode de scrutin	numliste	codenuance de la liste  	numéro du candidat dans la liste	tour	nom	prénom	sexe	Date de naissance	codeprofession  	libellé profession	nationalité
+
+																						
+# Nuanceier politique :		
+code	libellé	ordre	définition_
+
+
+# Liste des villes :			
+id	departement_code	code_insee	zip_code	name
+
+# Référentiel géographique : France par commune								
+code	nb_demplois	artisans	commerçants	chefsdentreprise    cadresetprofessionsintellectuellessupérieures	professionsintermédaires	employes	ouvriers	
+
+
+# Population France par commune	
+Code insée	Population légale
+
+# Liste départements :			
+id	region_code	code	name	nom normalisé
