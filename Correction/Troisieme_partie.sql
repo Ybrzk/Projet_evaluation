@@ -95,7 +95,7 @@ SELECT AVG(2019 - year(Date_de_naissance)) AS age, Date_de_naissance, department
 FROM elus 
 JOIN villes ON elus.code_insee = villes.code_insee
 GROUP BY department_code
-HAVING AVG(AGE) < 54
+HAVING AGE < 54
 ORDER BY age;  
 
 
